@@ -21,6 +21,7 @@ public class Main {
 		
 		System.out.println(m.calculateModuleClassification());
 		System.out.println(m.calculateModuleGrade());
+
 		
 	}
 
